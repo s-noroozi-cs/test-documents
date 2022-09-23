@@ -25,3 +25,17 @@
 * BDD practitioners then use that vocabulary to create a domain specific language they can use to encode system tests such as User Acceptance Tests (UAT).
 
 * Each test is based on a user story written in the formally specified ubiquitous language based on English. (A ubiquitous language is a vocabulary shared by all stakeholders.)
+
+	* A test for a transfer in a cryptocurrency wallet might look like this:
+
+```
+	Story: Transfers change balances
+	As a wallet user
+	In order to send money
+	I want wallet balances to update
+	Given that I have $40 in my balance
+	And my friend has $10 is their balance
+	When I transfer $20 to my friend
+	Then I should have $20 in my balance
+	And my friend should have $30 in their balance.
+```
