@@ -12,7 +12,13 @@
 
 * You need integration tests, which can be collaboration tests between two or more units, or full end-to-end functional tests of the whole running application (aka system testing). 
 
-# Behavior Driven Development / Behavior testing
+# Behavior Driven Development / Behavior Testing
+
+* When working on a software project in a team that includes people with different roles, such as in agile environments, there is always a risk of misalignment in the understanding of end-user requirements and what the software should actually do. The developer may not fully understand because they may not be clearly formulated by the product owner. The product owner may not realize the complexity of the task being assigned for development and the impact it may have on its delivery. The tester may reason about different edge cases or scenarios that would have been easier to account at an early stage of the development.
+
+* To help improve the development approach through better collaboration between business and developers, behavior-driven development (BDD) was established as a relatively recent software development approach, building on the main ideas of test-driven development (TDD) and using a higher-level granularity in the test approach: instead of unit tests for classes and methods, the tests are acceptance tests that validate the behavior of the application. 
+
+* These acceptance tests are derived from concrete examples that are formulated by the team members so that the behavior of the system is better understood. When these example scenarios are formulated during conversations between the different members, the requirements are likely to be expressed more clearly, the input of the developer will likely be incorporated into them, and the tester will contribute with more scenarios to cover in the tests.
 
 * BDD is a branch of Test Driven Development (TDD). 
 
@@ -39,6 +45,11 @@
 	Then I should have $20 in my balance
 	And my friend should have $30 in their balance.
 ```
+## Steps Guide
+* The scenarios act as executable specifications for the behavior of the feature under test.
+* These specifications can be executed as automated regression tests.
+* The scenarios act as documentation about the feature that follows the main code in a version control system.
+
 * Notice that this language is focused exclusively on the business value that a customer should get from the software rather than describing the user interface of the software, or how the software should accomplish the goals. 
 
 * This is the kind of language you could use as input for the UX design process. Designing these kinds of user requirements up front can save a lot of rework later in the process by helping the team and customers get on the same page about what product you’re building.
@@ -48,3 +59,5 @@ I typically translate user requirements into functional tests rather than keep u
 
 ## Solution
 I find the layman-readable DSL useful for very high-level specifications as a communications tool between stakeholders, but a typical software system will require orders of magnitude more low-level tests in order to produce adequate code and case coverage to prevent show-stopping bugs from reaching production.
+
+
