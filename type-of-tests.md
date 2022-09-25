@@ -28,6 +28,14 @@
 * Whenever your test interacts with more than just one unit – directly or indirectly, it becomes an Integration Test.
 
 # Acceptance Tests
+* An Acceptance Test (AT) verifies if the whole application works as intended.
+
+* Sometimes Acceptance Tests are also called User Acceptance Tests (UAT). The question is: Would the user accept the software? To answer that, an Acceptance Test must use the same interface as the user would use. When we talk about a web app, the test needs to use a browser to interact with the app.
+
+![Alt text](./images/acceptance-test.png?raw=true "Acceptance Tests")
+
+* Another common name for Acceptance Test is End-to-End-Test (e2e). That’s because an Acceptance Test always tests an app all the way from one end (the frontend) through the middle (the backend) to the other end (the database).
+
 
 # Behavior Driven Development / Behavior Tests
 
