@@ -39,3 +39,7 @@
 	Then I should have $20 in my balance
 	And my friend should have $30 in their balance.
 ```
+* Notice that this language is focused exclusively on the business value that a customer should get from the software rather than describing the user interface of the software, or how the software should accomplish the goals. 
+
+* This is the kind of language you could use as input for the UX design process. Designing these kinds of user requirements up front can save a lot of rework later in the process by helping the team and customers get on the same page about what product you’re building.
+
