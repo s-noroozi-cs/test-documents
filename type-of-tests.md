@@ -25,6 +25,8 @@
 
 * When one of your functions calls another of your functions, then this would be a cluster of units. But a cluster can also be made of one of your classes that interacts with other classes. Any combination is possible.
 
+* Whenever your test interacts with more than just one unit – directly or indirectly, it becomes an Integration Test.
+
 # Behavior Driven Development / Behavior Testing
 
 * When working on a software project in a team that includes people with different roles, such as in agile environments, there is always a risk of misalignment in the understanding of end-user requirements and what the software should actually do. The developer may not fully understand because they may not be clearly formulated by the product owner. The product owner may not realize the complexity of the task being assigned for development and the impact it may have on its delivery. The tester may reason about different edge cases or scenarios that would have been easier to account at an early stage of the development.
