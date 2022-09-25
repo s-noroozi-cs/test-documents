@@ -6,6 +6,13 @@
 
 * Unit tests are great to learn whether or not individual parts of an application work.
 
+* A Unit Test (UT) verifies if one of the smallest pieces in your software works as expected.
+
+* The smallest piece in your software is usually a function or a class.
+
+![Alt text](./images/unit-test.png?raw=true "Unit Test")
+
+
 # Integration testing
 	
 * unit tests don’t test whether or not units work together when they’re composed to form a whole application. 
