@@ -43,3 +43,8 @@
 
 * This is the kind of language you could use as input for the UX design process. Designing these kinds of user requirements up front can save a lot of rework later in the process by helping the team and customers get on the same page about what product you’re building.
 
+## Issue
+I typically translate user requirements into functional tests rather than keep up BDD tests, mostly because of the complexity of integrating BDD frameworks with modern applications, and the cost of maintaining custom, English-like DSL whose definitions may end up spanning several systems, and even several implementation languages.
+
+## Solution
+I find the layman-readable DSL useful for very high-level specifications as a communications tool between stakeholders, but a typical software system will require orders of magnitude more low-level tests in order to produce adequate code and case coverage to prevent show-stopping bugs from reaching production.
