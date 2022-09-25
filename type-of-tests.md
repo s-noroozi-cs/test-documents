@@ -1,4 +1,4 @@
-# Unit testing
+# Unit Testing
 	
 * Unit testing is a methodology where units of code are tested in isolation from the rest of the application. 
 	
@@ -10,7 +10,7 @@
 
 * The smallest piece in your software is usually a function or a class.
 
-![Alt text](./images/unit-test.png?raw=true "Unit Test")
+![Alt text](./images/unit-test.png?raw=true "Unit Testing")
 
 
 # Integration testing
@@ -18,6 +18,12 @@
 * unit tests don’t test whether or not units work together when they’re composed to form a whole application. 
 
 * You need integration tests, which can be collaboration tests between two or more units, or full end-to-end functional tests of the whole running application (aka system testing). 
+
+![Alt text](./images/integration-test.png?raw=true "Integration Testing")
+
+* An Integration Test (IT) verifies whether a cluster of units works together nicely.
+
+* When one of your functions calls another of your functions, then this would be a cluster of units. But a cluster can also be made of one of your classes that interacts with other classes. Any combination is possible.
 
 # Behavior Driven Development / Behavior Testing
 
