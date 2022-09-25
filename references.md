@@ -7,3 +7,7 @@
 * https://cultivate.software/unit-vs-integration-vs-acceptance-test/
 
 * https://www.browserstack.com/guide/tdd-vs-bdd-vs-atdd
+
+* https://www.lambdatest.com/blog/best-ui-testing-tools/
+
+

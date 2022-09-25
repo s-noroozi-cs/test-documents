@@ -48,7 +48,7 @@
 * Implementation on real hardware, simulators, and emulators.
 * Integrations with CI/CD tools and other testing frameworks.
 
-## Katalon Studio
+## Katalon
 * Flexible test design techniques: Scripting, Manual, and Record & Playback Modes.
 * BDD, DDT, KDT, Cross-Browser Testing (Headless, Chrome, Edge, Firefox, and Safari), and Cross-Platform Mobile Testing are supported testing approaches.
 * Smart Wait, Automatic Retry of Failed Tests, and Self-Healing Mechanisms.
@@ -80,3 +80,9 @@
 * It was created using industry-recognized FREE tools. It supports a variety of operating systems, and most importantly, it provides an automated testing strategy that puts the needs of the software team first.
 
 ## TestCafe
+* 1 Minute to Set Up
+** TestCafe does not require WebDriver or other testing software. It runs on Node.js and uses the browsers you already have.
+* Clean code
+** TestCafe frees you from the need to insert manual timeouts and use cumbersome boilerplate expressions. You’ll spend less time tracking down annoying issues and more time doing what matters most.
+* Free and Open Source
+** TestCafe is available for free and distributed under the MIT license. We are committed to our open-source community and are actively extending TestCafe's capabilities.
