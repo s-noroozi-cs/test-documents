@@ -37,13 +37,15 @@
 * Another common name for Acceptance Test is End-to-End-Test (e2e). That’s because an Acceptance Test always tests an app all the way from one end (the frontend) through the middle (the backend) to the other end (the database).
 
 
-# Behavior Driven Development / Behavior Tests
+# Behavior Driven Development
 
 * When working on a software project in a team that includes people with different roles, such as in agile environments, there is always a risk of misalignment in the understanding of end-user requirements and what the software should actually do. The developer may not fully understand because they may not be clearly formulated by the product owner. The product owner may not realize the complexity of the task being assigned for development and the impact it may have on its delivery. The tester may reason about different edge cases or scenarios that would have been easier to account at an early stage of the development.
 
 * To help improve the development approach through better collaboration between business and developers, behavior-driven development (BDD) was established as a relatively recent software development approach, building on the main ideas of test-driven development (TDD) and using a higher-level granularity in the test approach: instead of unit tests for classes and methods, the tests are acceptance tests that validate the behavior of the application. 
 
 * These acceptance tests are derived from concrete examples that are formulated by the team members so that the behavior of the system is better understood. When these example scenarios are formulated during conversations between the different members, the requirements are likely to be expressed more clearly, the input of the developer will likely be incorporated into them, and the tester will contribute with more scenarios to cover in the tests.
+
+![Alt text](./images/bdd.png?raw=true "Behavior Driven Development")
 
 * BDD is a branch of Test Driven Development (TDD). 
 
