@@ -1,6 +1,7 @@
 # Web Testing Tool
 
 ## LambdaTest
+![Alt text](./images/LambdaTest.png?raw=true "LambdaTest")
 * Unmatched UI Test Execution Speed
 * Test Fast and Test Often – Unblock your developers
 * An Automated UI Testing tool offering testing across 3000+ browsers
@@ -9,12 +10,14 @@
 * Fastest End-to-End Test Execution Cloud
 
 ## Selenium
+![Alt text](./images/Selenium.png?raw=true "Selenium")
 * Programming languages supported include Java, C#, Python, JavaScript, Ruby, PHP, and more.
 * Browsers that are supported include Chrome, Firefox, IE, Microsoft Edge, Opera, Safari, and more.
 * Parallel and cross-browser executions for testing on local or remote machines via the Selenium server to speed up execution and expand test coverage.
 * Integrations with top CI/CD tools and other testing frameworks.
 
 ## Cypress
+![Alt text](./images/Cypress.png?raw=true "Cypress")
 * Can easily get the test snapshots.
 * Debugging capabilities and test step execution snapshots from well-known developer tools.
 * Control network traffic, timings, server response, and function behavior.
@@ -22,6 +25,7 @@
 * Provides real-time support.
 
 ## Playwright
+![Alt text](./images/Playwright.png?raw=true "Playwright")
 * Setting up and configuring it is quite simple.
 * Get support for multiple browsers, including Firefox, Edge, Chrome, and Safari.
 * Python, Java, Javascript/Typescript, and C# are used to support it.
@@ -29,12 +33,14 @@
 * Maximize the use of numerous browsers and tabs.
 
 ## Puppeteer
+![Alt text](./images/Puppeteer.png?raw=true "Puppeteer")
 * Node library provides a high-level API for controlling Chromium using the DevTools Protocol.
 * Simply interact with any web browser when they utilize Puppeteer testing.
 * The Chrome DevTools team is in charge of the upkeep.
 * This tool is also browser-driven.
 
 ## Taiko
+![Alt text](./images/Taiko.png?raw=true "Taiko")
 * Eliminate faulty tests and obtain accurate test results.
 * Simple to install in a few minutes.
 * To capture the bugs, use an interactive recorder.
@@ -43,12 +49,14 @@
 * Get features that are compatible with Linux, macOS, and Windows.
 
 ## Appium
+![Alt text](./images/Appium.png?raw=true "Appium")
 * Programming languages supported include Java, C#, Python, JavaScript, Ruby, PHP, and Perl.
 * Testing across platforms using the same APIs and reusable test scripts.
 * Implementation on real hardware, simulators, and emulators.
 * Integrations with CI/CD tools and other testing frameworks.
 
 ## Katalon
+![Alt text](./images/Katalon.png?raw=true "Katalon")
 * Flexible test design techniques: Scripting, Manual, and Record & Playback Modes.
 * BDD, DDT, KDT, Cross-Browser Testing (Headless, Chrome, Edge, Firefox, and Safari), and Cross-Platform Mobile Testing are supported testing approaches.
 * Smart Wait, Automatic Retry of Failed Tests, and Self-Healing Mechanisms.
@@ -57,6 +65,7 @@
 * Using the Smart Debugging UI and test reporting, problems can be promptly resolved.
 
 ## Protractor
+![Alt text](./images/Protractor.png?raw=true "Protractor")
 * Execution testing utilizes native events in a real browser.
 * Angular applications’ element identification using expanded HTML attributes.
 * Support frameworks for behavior-driven development, such as Jasmine and Mocha.
@@ -64,6 +73,7 @@
 * Supports parallel and cross browser testing.
 
 ## Eggplant
+![Alt text](./images/Eggplant.png?raw=true "Eggplant")
 * Flexible test design techniques: manual mode, assisted scripting, and recording.
 * Unique Scripting language – SenseTalk’s integration with the Eggplant ecosystem will increase testing and monitoring possibilities.
 * Developed by TestPlant, eggPlant is a for-profit GUI automation and software testing solution.
@@ -73,6 +83,7 @@
 * For performing an end-to-end QA process, we can incorporate eggPlant into Jenkins, IBM Rational Quality Manager, and Micro Focus Quality Center.
 
 ## TestProject
+![Alt text](./images/TestProject.png?raw=true "TestProject")
 * The first free cloud-based, community-powered automated testing platform in the world, TestProject, is fully featured and simple to use, even if you don’t know how to code.
 * It can easily handle various platforms, including Web Services, Android, iOS, Windows, and Linux.
 * With a developer SDK and the skills to utilize and develop add-ons to enhance the capabilities as necessary, it gives customers strong cloud-based recording and playback capabilities.
@@ -80,9 +91,11 @@
 * It was created using industry-recognized FREE tools. It supports a variety of operating systems, and most importantly, it provides an automated testing strategy that puts the needs of the software team first.
 
 ## TestCafe
+![Alt text](./images/TestCafe.png?raw=true "TestCafe")
 * 1 Minute to Set Up
 ** TestCafe does not require WebDriver or other testing software. It runs on Node.js and uses the browsers you already have.
 * Clean code
 ** TestCafe frees you from the need to insert manual timeouts and use cumbersome boilerplate expressions. You’ll spend less time tracking down annoying issues and more time doing what matters most.
 * Free and Open Source
 ** TestCafe is available for free and distributed under the MIT license. We are committed to our open-source community and are actively extending TestCafe's capabilities.
+![Alt text](./images/TestCafe-2.png?raw=true "TestCafe sample code")
